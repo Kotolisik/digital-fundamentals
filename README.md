@@ -1,2 +1,2 @@
 # digital-fundamentals
-skripts
+scripts
